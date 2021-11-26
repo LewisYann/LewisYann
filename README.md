@@ -14,7 +14,6 @@
 - 💬 Ask me about React and Flask
 - 📫 How to reach me: lewislewis996@gmail.com
 - 😄 Pronouns: Lewis 
--->
 
 
  
