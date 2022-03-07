@@ -6,11 +6,9 @@
  
 ### About me
 
--   💼  CEO of Switchers startup, freelance worker
 -   ❤️  I love writing TypeScript on fronted and python for Backend, and building fun experiments on type-level 
 - 🔭 I’m currently working on React, React Native, Flask and Django
 - 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about React and Flask
 - 📫 How to reach me: lewislewis996@gmail.com
 - 😄 Pronouns: Lewis 
