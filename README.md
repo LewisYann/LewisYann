@@ -13,7 +13,9 @@
 - 📫 How to reach me: lewislewis996@gmail.com
 - 😄 Pronouns: Lewis 
 
+### 🏆 GitHub Profile Trophy:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 ### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LewisYann&count_private=true&show_icons=trushow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
