@@ -2,27 +2,23 @@
 
 ![](https://drive.google.com/file/d/1YLx89TTRNUFTfCt5PCCv8KRrgCr0tyhF/view?usp=sharing)
 
- I'm a self-taught passionate FullStack Engenieer  
+ I'm a self-taught passionate FullStack Developper  
  
 ### About me
 
--   ❤️  I love writing TypeScript on fronted and python for Backend, and building fun experiments on type-level 
+-   ❤️  I love writing TypeScript and JavaScript on frontend and python for Backend, and building fun experiments on type-level 
 - 🔭 I’m currently working on React, React Native, Flask and Django
-- 🌱 I’m currently learning 
-- 💬 Ask me about React and Flask
+- 🌱 I’m currently learning Flutter and interresting by Marching learning 
+- 💬 Ask me about React, React Native, Flask and Redux stack
 - 📫 How to reach me: lewislewis996@gmail.com
 - 😄 Pronouns: Lewis 
 
-### 🏆 GitHub Profile Trophy:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LewisYann)](https://github.com/ryo-ma/github-profile-trophy)
  
 ### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LewisYann&count_private=true&show_icons=trushow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###Pinned:
-
 
 [
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LewisYann&repo=marketing-App-Communication)](https://github.com/anuraghazra/github-readme-stats)
