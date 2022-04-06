@@ -17,9 +17,6 @@
 ### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LewisYann&count_private=true&show_icons=trushow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Preferred Language Programming language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisYann)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Pinned:
 
 [
