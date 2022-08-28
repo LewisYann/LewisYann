@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning Flutter and interresting by Marching learning 
 - 💬 Ask me about React, React Native, Flask and Redux stack
 - 📫 How to reach me: lewislewis996@gmail.com
-- 😄 Pronouns: Lewis 
-
+ 
  
 ### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LewisYann&count_private=true&show_icons=trushow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
