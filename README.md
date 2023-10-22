@@ -6,10 +6,6 @@
  
 ### About me
 
--   ❤️  I love writing TypeScript and JavaScript on frontend and python for Backend, and building fun experiments on type-level 
-- 🔭 I’m currently working on React, React Native, Flask and Django
-- 🌱 I’m currently learning Flutter and interresting by Marching learning 
-- 💬 Ask me about React, React Native, Flask and Redux stack
 - 📫 How to reach me: lewislewis996@gmail.com
  
  
