@@ -2,7 +2,7 @@
 
 ![](https://drive.google.com/file/d/1YLx89TTRNUFTfCt5PCCv8KRrgCr0tyhF/view?usp=sharing)
 
- I'm a self-taught passionate FullStack Developer  
+ I'm a FullStack Developer  
  
 ### About me
 
